@@ -15,13 +15,6 @@
  * printing an '*' before the line number, the specific characters that exceed 
  * 80 are denoted with a '^' directly underneath them. 
  *
- * "I pledge on my honor that I have not given or recieved help recieved any
- * unauthorized assistance on this assignment"
- * -Liam Egan
- *
- * UID:
- * 115889972
- *
  */
 int main(void) {
   char c;
