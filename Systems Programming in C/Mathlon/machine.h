@@ -1,8 +1,4 @@
-/* (c) Larry Herman, 2021.  You are allowed to use this code yourself, but
-   not to provide it to anyone else. */
-
-/* DO NOT MODIFY THIS FILE OR YOUR CODE WILL NOT COMPILE ON THE SUBMIT
- * SERVER. */
+/* (c) Larry Herman, 2021. */
 
 #define NUM_BYTES 32768
 #define BYTES_PER_WORD 4
