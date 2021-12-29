@@ -3,7 +3,6 @@
 #include <string.h>
 #include "prio-q.h"
 /* (c) Liam Egan, 2021
- * UID: 115889972
  * This program implements a dynamically allocated priority queue in ISO C90. 
  * A priority queue is a data structure that stores elements with an 
  * associated priority. The element with the highest priority is known as 
