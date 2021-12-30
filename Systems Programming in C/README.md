@@ -2,4 +2,4 @@
 
 Here's a general description of each project
 
-- Item
+- Dynamically Allocated Priority Queue -> 
