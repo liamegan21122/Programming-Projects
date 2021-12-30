@@ -53,9 +53,9 @@ let rec regexp_to_nfa (regexp: regexp_t) : (int, char) nfa_t =
       delta = union xx.delta [(hd xx.fs, None, s1); (s0, None, xx.q0);(s0, None, s1); (s1, None, s0)]}
 
 
-(*****************************************************************)
-(* Below this point is parser code that YOU DO NOT NEED TO TOUCH *)
-(*****************************************************************)
+(***********)
+(* parser *)
+(***********)
 
 exception IllegalExpression of string
 
